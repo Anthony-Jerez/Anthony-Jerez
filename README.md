@@ -4,21 +4,9 @@
   </a>
 </div>
 
-**About Me**: I'm a recent computer science graduate from CUNY Queens College. Feel free to reach out to me via LinkedIn to collaborate!  
-**Interests:** Full-stack mobile and web development, AI Engineering
+### About Me
 
----
-
-### Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/anthony-jerez-tenecela/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.anthonyjerez.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+I'm a recent Computer Science graduate from **CUNY Queens College** with interests in **full-stack mobile/web development** and **AI Engineering**. I'm always open to meeting new people and collaborating on new projects! Feel free to connect via my [LinkedIn](https://www.linkedin.com/in/anthony-jerez-tenecela/) and checkout my [Website](https://www.anthonyjerez.com/).
 
 <!--
 **Anthony-Jerez/Anthony-Jerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
