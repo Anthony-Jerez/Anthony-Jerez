@@ -4,7 +4,7 @@
   </a>
 </div>
 
-**About Me**: I'm a recent computer science graduate from CUNY Queens College. Feel free to reach out to me via LinkedIn to collaborate!
+**About Me**: I'm a recent computer science graduate from CUNY Queens College. Feel free to reach out to me via LinkedIn to collaborate!  
 **Interests:** Full-stack mobile and web development, AI Engineering
 
 ---
