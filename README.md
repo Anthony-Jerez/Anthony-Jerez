@@ -1,12 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86DE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Anthony!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86DE&center=true&vCenter=true&width=435&lines=Hi+👋%2C+I'm+Anthony!" alt="Typing SVG" />
   </a>
 </div>
 
-### About Me
 
-- 💻 **Interests:** Full-stack mobile and web development, AI Engineering
+**Interests:** Full-stack mobile and web development, AI Engineering
 
 ---
 
